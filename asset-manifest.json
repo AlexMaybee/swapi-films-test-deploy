@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/swapi-films-test-deploy/static/css/main.b44a97fa.css",
+    "main.js": "/swapi-films-test-deploy/static/js/main.ccbe6d8b.js",
+    "static/media/planet.jpg": "/swapi-films-test-deploy/static/media/planet.89aed93445f2adcfa28f.jpg",
+    "static/media/yoda.jpg": "/swapi-films-test-deploy/static/media/yoda.978a6bf080a43278a29c.jpg",
+    "static/media/ship.png": "/swapi-films-test-deploy/static/media/ship.6f5d0d318c4c43348f10.png",
+    "static/media/film-image.jpg": "/swapi-films-test-deploy/static/media/film-image.a4f908427d09ac5d0327.jpg",
+    "static/media/vehicle.jpg": "/swapi-films-test-deploy/static/media/vehicle.774815aeb4c09f2f059f.jpg",
+    "static/media/spacies.jpg": "/swapi-films-test-deploy/static/media/spacies.d86beb8e9f0ad46b165e.jpg",
+    "index.html": "/swapi-films-test-deploy/index.html",
+    "main.b44a97fa.css.map": "/swapi-films-test-deploy/static/css/main.b44a97fa.css.map",
+    "main.ccbe6d8b.js.map": "/swapi-films-test-deploy/static/js/main.ccbe6d8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b44a97fa.css",
+    "static/js/main.ccbe6d8b.js"
+  ]
+}
